@@ -12,8 +12,12 @@ Antecedentes
 [iOS](https://itunes.apple.com/us/app/id1199566366)
 [Android](https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe)
 
-3. Haz click en este [link](https://run.ooni.io/nettest?tn=web_connectivity&ta=%7B%22urls%22%3A%5B%22https%3A%2F%2F1xbet.com%2F%22%2C%22https%3A%2F%2Fwww.betsson.com%2F%22%2C%22https%3A%2F%2Fwww.bet365.com%2F%22%2C%22https%3A%2F%2Flat.betano.com%2F%22%2C%22https%3A%2F%2Fbetcris.com%2F%22%2C%22https%3A%2F%2Fwww.bodog.com%2F%22%2C%22https%3A%2F%2Fwww.betfair.com%2F%22%2C%22https%3A%2F%2Fsports.bwin.com%2F%22%2C%22https%3A%2F%2Fwww.betsala.com%2F%22%2C%22https%3A%2F%2Fbetway.com%2F%22%2C%22https%3A%2F%2Fbetwarrior.bet%2F%22%2C%22https%3A%2F%2Fbetplay.com.co%2F%22%2C%22https%3A%2F%2Fwww.coolbet.com%2F%22%2C%22https%3A%2F%2Festelarbet.vip%2F%22%2C%22https%3A%2F%2Fwww.juegaenlinea.com%2F%22%2C%22https%3A%2F%2Fwww.kto.com%2F%22%2C%22https%3A%2F%2Flatamwin.online%2F%22%2C%22https%3A%2F%2Fwww.marathonbet.com%2F%22%2C%22https%3A%2F%2Fmicasino.com%2F%22%2C%22https%3A%2F%2Frojabet.com%2F%22%2C%22https%3A%2F%2Fwww.rushbet.co%2F%22%2C%22https%3A%2F%2Fwww.rivalo.com%2F%22%2C%22https%3A%2F%2Fsports.sportingbet.com%2F%22%5D%7D&mv=1.2.0) una vez instalada la aplicación 
+2. Haz click en este [link](https://run.ooni.io/nettest?tn=web_connectivity&ta=%7B%22urls%22%3A%5B%22https%3A%2F%2F1xbet.com%2F%22%2C%22https%3A%2F%2Fwww.betsson.com%2F%22%2C%22https%3A%2F%2Fwww.bet365.com%2F%22%2C%22https%3A%2F%2Flat.betano.com%2F%22%2C%22https%3A%2F%2Fbetcris.com%2F%22%2C%22https%3A%2F%2Fwww.bodog.com%2F%22%2C%22https%3A%2F%2Fwww.betfair.com%2F%22%2C%22https%3A%2F%2Fsports.bwin.com%2F%22%2C%22https%3A%2F%2Fwww.betsala.com%2F%22%2C%22https%3A%2F%2Fbetway.com%2F%22%2C%22https%3A%2F%2Fbetwarrior.bet%2F%22%2C%22https%3A%2F%2Fbetplay.com.co%2F%22%2C%22https%3A%2F%2Fwww.coolbet.com%2F%22%2C%22https%3A%2F%2Festelarbet.vip%2F%22%2C%22https%3A%2F%2Fwww.juegaenlinea.com%2F%22%2C%22https%3A%2F%2Fwww.kto.com%2F%22%2C%22https%3A%2F%2Flatamwin.online%2F%22%2C%22https%3A%2F%2Fwww.marathonbet.com%2F%22%2C%22https%3A%2F%2Fmicasino.com%2F%22%2C%22https%3A%2F%2Frojabet.com%2F%22%2C%22https%3A%2F%2Fwww.rushbet.co%2F%22%2C%22https%3A%2F%2Fwww.rivalo.com%2F%22%2C%22https%3A%2F%2Fsports.sportingbet.com%2F%22%5D%7D&mv=1.2.0) una vez instalada la aplicación 
 
+3. Se abrirá la aplicación OONI con el listado de los sitios. Haz click en Run para verificar si los sitios son accesibles.
+
+<img src="https://github.com/dragonxtek/OONI-checker/blob/0016fbecb6c32df2087541a61ff331114e8de4fd/list.jpeg" width="300px" />
+   
 #### Sitios de operadores de azar que debiesen estar bloqueados
 
 - 1xBet
